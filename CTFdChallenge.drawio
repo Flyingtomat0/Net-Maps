@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V7bFDbgL-2ccECLvx8o4-1" value=".164" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-555" y="70" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="V7bFDbgL-2ccECLvx8o4-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="66" width="80" height="80" as="geometry" />
+          <mxGeometry x="-425" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V7bFDbgL-2ccECLvx8o4-3" value=".46" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-25" y="56" width="80" height="80" as="geometry" />
@@ -16,11 +13,8 @@
         <mxCell id="V7bFDbgL-2ccECLvx8o4-4" value=".180" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="50" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V7bFDbgL-2ccECLvx8o4-5" value="&lt;div&gt;Hostname: tunnels-training-atropia-pivot&lt;/div&gt;&lt;div&gt;ip: 10.50.27.164&lt;/div&gt;&lt;div&gt;MAC: FA:16:3E:C7:E6:BA&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: eth0&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: TCP: 22&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: net1_student16:password16&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="145" width="240" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="V7bFDbgL-2ccECLvx8o4-6" value="&lt;div&gt;Hostname: Pineland&lt;/div&gt;&lt;div&gt;ip: 10.50.29.131&lt;/div&gt;&lt;div&gt;MAC: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 23&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: net1_student16:password16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="146" width="210" height="100" as="geometry" />
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-6" value="&lt;div&gt;Hostname: tunnels-training-pineland-insider&lt;/div&gt;&lt;div&gt;Float-ip: 10.50.29.131&lt;/div&gt;&lt;div&gt;Internal IP: 10.2.0.1/24&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC: FA:16:3E:95:8A:F6&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: eth0&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 22,23,80&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: net1_student16:password16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="560" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V7bFDbgL-2ccECLvx8o4-7" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;ip: 10.50.28.46&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: UNK&lt;/div&gt;&lt;div&gt;Creds: net1_student16:password16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-90" y="146" width="210" height="100" as="geometry" />
@@ -28,14 +22,8 @@
         <mxCell id="V7bFDbgL-2ccECLvx8o4-8" value="&lt;div&gt;Hostname: blue-Internet-host-student-16&lt;br&gt;&lt;/div&gt;&lt;div&gt;ip: 10.50.26.180&lt;/div&gt;&lt;div&gt;int ip: 10.10.0.40&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC: FA:16:3E:86:4F:95&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: eth0&lt;/div&gt;&lt;div&gt;Open Ports:&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: student:password&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1680" y="129" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V7bFDbgL-2ccECLvx8o4-9" value="T3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="70" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="V7bFDbgL-2ccECLvx8o4-10" value=".131" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="96" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="V7bFDbgL-2ccECLvx8o4-11" value="T4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="70" width="40" height="30" as="geometry" />
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-10" value=".1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="510" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V7bFDbgL-2ccECLvx8o4-12" value="T5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-5" y="61" width="40" height="30" as="geometry" />
@@ -81,7 +69,7 @@
           <mxGeometry x="265" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V7bFDbgL-2ccECLvx8o4-23" value=".10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="481" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V7bFDbgL-2ccECLvx8o4-24" value=".27" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="480" width="80" height="80" as="geometry" />
@@ -95,11 +83,51 @@
         <mxCell id="V7bFDbgL-2ccECLvx8o4-27" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;ip: 10.3.0.1&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: TCP: 21,80&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: UNK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="560" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="V7bFDbgL-2ccECLvx8o4-28" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;ip: 10.3.0.10&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: TCP: 22&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: UNK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="560" width="130" height="100" as="geometry" />
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-28" value="&lt;div&gt;Hostname: tunnels-training-atropia-pivot&lt;/div&gt;&lt;div&gt;Float-ip: 10.50.27.164&lt;/div&gt;&lt;div&gt;Internal IP: 10.3.0.10&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC: FA:16:3E:C7:E6:BA&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: eth0&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: TCP: 22&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: net1_student16:password16&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="555" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="V7bFDbgL-2ccECLvx8o4-29" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;ip: 10.3.0.27&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: TCP: 21,80&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: UNK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="645" y="560" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-30" value="T4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="484" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-32" value="T3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="501" y="480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-424" y="480" as="sourcePoint" />
+            <mxPoint x="31" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-169" y="480" as="sourcePoint" />
+            <mxPoint x="-169" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-169" y="470" />
+              <mxPoint x="-169" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-38" value="10.2.0.0/25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="458" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-39" value="(.1-.126)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-161" y="459" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-44" value=".2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="484" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-45" value="&lt;div&gt;Hostname: UNK&lt;/div&gt;&lt;div&gt;Internal IP: 10.2.0.2&lt;/div&gt;&lt;div&gt;MAC: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open ports: 21, 80&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: UNK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="565" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-46" value=".3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V7bFDbgL-2ccECLvx8o4-47" value="&lt;div&gt;Hostname: UNK&lt;/div&gt;&lt;div&gt;Internal IP: 10.2.0.3&lt;/div&gt;&lt;div&gt;MAC: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open ports: 22, 23&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds: UNK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="561" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
