@@ -34,14 +34,14 @@
         <mxCell id="ynCWnTIM4ECGxfwA6KKe-8" value=".20" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ynCWnTIM4ECGxfwA6KKe-9" value=".30" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="390" width="80" height="80" as="geometry" />
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-9" value=".60" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ynCWnTIM4ECGxfwA6KKe-10" value="&lt;div&gt;Hostname: data-collection-net-ssh-02&lt;br&gt;&lt;/div&gt;&lt;div&gt;Float ip: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Internal IP: 192.168.0.20/24&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC:FA:16:3E:2A:2F:09&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface:eth0&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 21, 80,1111,2222,3333&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds:net1_student16:password16&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="171" y="470" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ynCWnTIM4ECGxfwA6KKe-12" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Float ip: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Internal IP: 192.168.0.30/24&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 80,4444&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds:UNK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="470" width="170" height="110" as="geometry" />
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-12" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Float ip: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Internal IP: 172.16.0.60&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 21,23,80&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds:&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="470" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ynCWnTIM4ECGxfwA6KKe-13" value=".40" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="730" y="390" width="80" height="80" as="geometry" />
@@ -87,6 +87,12 @@
             <mxPoint x="920" y="440" as="sourcePoint" />
             <mxPoint x="1210" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-25" value=".30" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="485" y="392" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-26" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Float ip: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Internal IP: 192.168.0.30/24&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 80,4444&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds:UNK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="472" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
