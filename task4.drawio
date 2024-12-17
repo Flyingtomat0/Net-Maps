@@ -67,7 +67,7 @@
         <mxCell id="ynCWnTIM4ECGxfwA6KKe-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1209" y="390" as="sourcePoint" />
-            <mxPoint x="1824" y="390" as="targetPoint" />
+            <mxPoint x="2030" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ynCWnTIM4ECGxfwA6KKe-21" value="172.16.0.0/24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -115,8 +115,32 @@
         <mxCell id="ynCWnTIM4ECGxfwA6KKe-34" value=".90" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1645" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ynCWnTIM4ECGxfwA6KKe-35" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Float ip: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Internal IP: 172.16.0.90&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 21,80&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds:UNK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="470" width="150" height="110" as="geometry" />
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-35" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Float ip: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Internal IP: 172.16.0.90&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 21,80,2222(ssh)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds:net1_comrade16:privet16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="470" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-38" value=".70" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-39" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Float ip: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Internal IP: 172.16.0.70&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 1337&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds:UNK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="750" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-41" value=".100" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1665" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-42" value="&lt;div&gt;Hostname: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Float ip: UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Internal IP: 172.16.0.100&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAC:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interface:UNK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Open Ports: 23,80&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creds:net1_comrade16:privet16&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="770" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1259" y="599" as="sourcePoint" />
+            <mxPoint x="1259" y="656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynCWnTIM4ECGxfwA6KKe-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1699" y="573" as="sourcePoint" />
+            <mxPoint x="1699" y="683" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
